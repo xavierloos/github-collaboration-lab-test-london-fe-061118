@@ -14,7 +14,7 @@ continue to run `learn` in your terminal to see your progress. As you complete
 the steps, you should see that more and more of the tests pass, until all tests
 have been completed.
 
-**Note:** You must be in the parente folder of this lesson to run the tests, so
+**Note:** You must be in the parent folder of this lesson to run the tests, so
 if, during the instructions, you navigate into a new folder, make sure to use
 `cd ..` until you're back in the `git-remote-code-along` folder before running
 `learn`.
