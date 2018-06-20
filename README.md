@@ -1,6 +1,7 @@
-# Git Remotes + GitHub Code-along
+# Git Remotes + GitHub Lab
 
 ## Objectives
+
 1. Practice your GitHub command line skills
 2. Create a remote repository on GitHub and connect it with a local folder
 
@@ -14,10 +15,9 @@ continue to run `learn` in your terminal to see your progress. As you complete
 the steps, you should see that more and more of the tests pass, until all tests
 have been completed.
 
-**Note:** You must be in the parent folder of this lesson to run the tests, so
-if, during the instructions, you navigate into a new folder, make sure to use
-`cd ..` until you're back in the `git-remote-code-along` folder before running
-`learn`.
+**Note:** You must be in this directory, the "top-level" directory of the lesson to run the tests, so
+if, during the instructions, you navigate into a new folder, make sure to return
+to this directory before running `learn` again.
 
 ## Instructions
 
@@ -44,7 +44,7 @@ normal terminal.
 6. Push up your local work to the remote
 
 
-If you've passed all of the tests, go ahead and run `learn submit` to register
+Once you've passed all of the tests, go ahead and run `learn submit` to register
 completion of this lab in learn.  As you become more comfortable with the
 terminal and git, you'll find yourself using the workflow of initializing,
 adding, committing and pushing your work on a regular basis.  
